@@ -1,0 +1,22 @@
+body {
+  background: #e2ebf3; }
+
+.todoList {
+  width: 600px;
+  margin: 20px auto; }
+  .todoList ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0; }
+
+.strike {
+  text-decoration: line-through; }
+
+.remove {
+  float: right; }
+
+.clearComplete {
+  display: block;
+  margin: 20px auto; }
+
+/*# sourceMappingURL=main.css.map */
