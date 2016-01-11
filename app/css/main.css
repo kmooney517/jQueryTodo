@@ -13,7 +13,9 @@ body {
   text-decoration: line-through; }
 
 .remove {
-  float: right; }
+  float: right;
+  height: 10px;
+  padding-top: 0; }
 
 .clearComplete {
   display: block;
